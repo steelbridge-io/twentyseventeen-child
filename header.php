@@ -31,7 +31,7 @@
 			<div class="site-staff-area-navigation">
 				<div class="wrap">
           <div class="back-link header-left">
-            <a href="https://c5connections.local"><i class="fas fa-long-arrow-alt-left"></i> Parent Area</a>
+            <a href="https://c5connections.org"><i class="fas fa-long-arrow-alt-left"></i> Parent Area</a>
           </div>
           <div class="logo-area header-center">
             <img src="https://c5connections.org/wp-content/themes/wordplate/img/xx-c5-childrens-school-logo.png" alt="c5-logo">
